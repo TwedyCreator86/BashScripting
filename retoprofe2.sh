@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd ~ \
-	echo hola
+	echo hol mundo aa
